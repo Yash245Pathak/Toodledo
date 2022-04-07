@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Toodledo/static/css/main.073c9b0a.css",
+    "main.js": "/Toodledo/static/js/main.b2e744ee.js",
+    "static/js/787.72b4ed78.chunk.js": "/Toodledo/static/js/787.72b4ed78.chunk.js",
+    "index.html": "/Toodledo/index.html",
+    "main.073c9b0a.css.map": "/Toodledo/static/css/main.073c9b0a.css.map",
+    "main.b2e744ee.js.map": "/Toodledo/static/js/main.b2e744ee.js.map",
+    "787.72b4ed78.chunk.js.map": "/Toodledo/static/js/787.72b4ed78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b2e744ee.js"
+  ]
+}
